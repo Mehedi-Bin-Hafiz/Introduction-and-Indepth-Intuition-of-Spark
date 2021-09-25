@@ -1,2 +1,6 @@
 myvenv
 .ipynb_checkpoints
+
+
+./myvenv/Lib/site-packages/numpy/.libs/libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll
+./sparkintro/dataset/modyfiedBigdata.csv
